@@ -27,8 +27,8 @@
 #include "FS.h"
 
 // Replace with your network credentials
-const char* ssid = "CNN (Communist News Network)";
-const char* password = "R3L7C5$$";
+const char* ssid = "wifiNetwork";
+const char* password = "wifiPass";
  
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
